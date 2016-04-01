@@ -4,6 +4,8 @@
 The base code for the puzzle given on week 1 in CST 238 GUI (Oregon Institute of Technology).
 
 <b>Screenshot of solution</b><br \><br \>
+![Alt text](/img/sample_snowman.PNG)
+<br \>
 ![Alt text](/img/example_snowman2.png)
 
 <b>Inspiration</b><br \>
