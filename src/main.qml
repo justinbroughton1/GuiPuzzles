@@ -5,7 +5,7 @@ Window {
     visible: true
     Image{
         anchors.fill: parent
-        source:"Background.png"
+        source:"../img/Background.png"
     }
 
     // Create instances of "SnowMan" here...
